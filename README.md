@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="profile-card.svg" width="100%" alt="Kokusei Bio Portal" />
+  <img src="profile-card.svg" width="100%" alt="Kokusei Profile" />
 </div>
