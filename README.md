@@ -1,3 +1,6 @@
 <div align="center">
-  <img src="profile-card.svg" width="100%" alt="Kokusei Profile" />
+
+# Hello, there! 👋
+I'm Hafizh Sparta, or you can call me **Kokusei**  
+*"Balancing life as an IT student and a freelance multimedia localizer"*
 </div>
