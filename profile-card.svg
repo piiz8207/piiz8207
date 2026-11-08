@@ -34,8 +34,7 @@
     and side-questing as a multimedia translator by night.
   </text>
 
-
-  <!-- ==================== 2. BOTTOM LEFT: BIO PORTAL (ENGLISH) ==================== -->
+  <!-- ==================== 2. BOTTOM LEFT: BIO PORTAL ==================== -->
   <rect x="15" y="200" width="280" height="320" rx="10" fill="#090d16" stroke="#d4af37" stroke-width="1.4" />
 
   <!-- Row 1: Name -->
@@ -68,11 +67,8 @@
     BIO PORTAL // SYSTEM
   </text>
 
-
-  <!-- ==================== 3. BOTTOM RIGHT: EMPTY CANVAS / RESERVED AREA ==================== -->
+  <!-- ==================== 3. BOTTOM RIGHT: RESERVED AREA ==================== -->
   <rect x="310" y="200" width="515" height="320" rx="10" fill="#090d16" stroke="#d4af37" stroke-width="1.4" />
-  
-  <!-- Subtle inner dashed border to indicate a clean reserved space -->
   <rect x="325" y="215" width="485" height="290" rx="8" fill="none" stroke="#d4af37" stroke-width="1" stroke-opacity="0.25" stroke-dasharray="5 5" />
 
   <text x="567" y="365" font-family="&#39;JetBrains Mono&#39;, monospace" font-size="12" fill="#334155" text-anchor="middle" letter-spacing="1">
